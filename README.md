@@ -1,6 +1,6 @@
 # caribbean-vaccination
 Caribbean Vaccination Coverage Shiny App
-This Shiny app visualizes the vaccination coverage rates in various Caribbean countries over time. Users can explore data for different vaccines or select all vaccines for a specific country. The app is built using the R Shiny framework and the tidyverse suite for data manipulation and visualization.
+This Shiny app visualizes the vaccination coverage rates in various Caribbean countries over time. Users can explore data for different vaccines or select all vaccines for a specific country. The app is built using the R Shiny framework and the tidyverse suite for data manipulation and visualization. Visit the live version: https://stepminer.shinyapps.io/caribbean_vaccination/
 
 Features
 Select from 16 Caribbean countries, including Haiti, Cuba, Dominican Republic, Jamaica, etc.
